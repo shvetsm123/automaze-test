@@ -46,6 +46,13 @@ Install all packages
   npm install
 ```
 
+Connect your MongoDB URL
+
+```bash
+  cd server/src/utils/db.js
+```
+
+
 Run it locally on 5000 port
 
 ```bash
